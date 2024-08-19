@@ -1,0 +1,90 @@
+body {
+    background-color: #FFFEE4;
+    margin: 0;
+    padding: 10px;
+}
+
+h1{
+  color: #DED778;
+  font-size: 100px;
+}
+
+p{
+  font-size: 25px;
+  color: #434136;
+}
+
+div{
+  line-height: 2;
+}
+
+img{
+  object-fit: cover;
+  width:150px;
+  height: 150px;
+}
+
+
+.food{
+  background-color: #FF1212;
+}
+
+.garri{
+  background-color: #12FF4C;
+}
+
+.text{
+  font-size: 1rem;
+}
+
+garri1{
+      height: 250px;
+      width: 250px;
+    }
+    
+    #garri2{
+      width:280px;
+      height:300px;
+      border-radius: 5px;
+    }
+    
+    .garri-box{
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    figure{
+      margin: 10px;
+      padding:10px;
+      border-radius: 5px;
+    }
+    
+    #garri3{
+      height:350px;
+      width: 200px;
+      border-radius: 10px;
+    }
+    
+    .garriheader{
+      font-size: 2rem;
+    }
+    .garriheader>a{
+      color: #DED778;
+
+    }
+    
+    a{
+      text-decoration-line: none;
+    }
+    
+    #garri4{
+      width:250px;
+      height:200px;
+      border-radius:10px;
+    }
+    
+    #garri5{
+     height: 350px; 
+     width: 200px;
+     border-radius: 10px;
+    }
